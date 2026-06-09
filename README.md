@@ -13,4 +13,4 @@
 - 倒數第二堂（打包得進檔案的我）：[beta.skill](https://github.com/tan9/beta.skill)
 - 最後一堂（打包不進檔案的我）：就是這裡。
 
-詳細的講稿骨架見 [`outline.md`](./outline.md)。
+詳細的講稿骨架見 [`outline.md`](./outline.md)；開場與收尾的逐字草稿見 [`opening-closing.md`](./opening-closing.md)。
