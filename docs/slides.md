@@ -223,3 +223,18 @@ Note:
 
 Note:
 （停。）謝謝。
+（★ 現場就收在這裡。下一張「參考來源」是給線上版讀者的附錄，台上不要翻過去。）
+
+---
+
+<!-- .slide: data-background-color="#111111" -->
+## 參考來源
+
+<div class="refs">
+《我可能錯了：森林智者的最後一堂人生課》── Björn Natthiko Lindeblad（比約恩‧納提科‧林德布勞）<br>
+倒數第二場 · 培棠.skill　<code>tan9.github.io/beta.skill</code><br>
+這份講稿　<code>github.com/tan9/standardized-life</code>
+</div>
+
+Note:
+（附錄，給線上版。）今天結尾那兩句借自 Björn Natthiko Lindeblad 的《我可能錯了》。

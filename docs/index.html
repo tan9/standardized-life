@@ -53,6 +53,7 @@
         .reveal em { color: var(--accent); font-style: normal; }
         .reveal code { font-family: 'JetBrains Mono', 'Menlo', monospace; }
         .reveal .small { font-size: 0.6em; color: var(--muted); }
+        .reveal .refs { font-size: 0.5em; text-align: left; line-height: 2.1; display: inline-block; }
 
         /* 章節分隔頁 */
         .reveal section.belief h2 { color: #fff; }
@@ -94,7 +95,7 @@
     <script src="https://cdn.jsdelivr.net/npm/reveal.js@5.1.0/plugin/highlight/highlight.js"></script>
     <script>
         // 段名（依水平 section 索引；封面留空）
-        const SECTION_NAMES = ['', '開場', '信念一 · 公開透明', '信念二 · 不可取代', '信念三 · 我可能錯了', '這也會過去', '收尾'];
+        const SECTION_NAMES = ['', '開場', '信念一 · 公開透明', '信念二 · 不可取代', '信念三 · 我可能錯了', '這也會過去', '收尾', '參考'];
         function updateMarker() {
             const idx = Reveal.getIndices();
             const name = SECTION_NAMES[idx.h] || '';
