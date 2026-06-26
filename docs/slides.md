@@ -52,7 +52,8 @@ Note:
 ---
 
 <!-- .slide: class="belief" data-background-color="#1a2a33" -->
-<p class="tag">信念 一</p>
+<p class="tag">布施</p>
+
 ## 公開透明，不藏私
 
 Note:
@@ -88,7 +89,8 @@ Note:
 ---
 
 <!-- .slide: class="belief" data-background-color="#33291a" -->
-<p class="tag">信念 二</p>
+<p class="tag">無我</p>
+
 ## 不可取代，是一種失敗
 
 Note:
@@ -112,7 +114,8 @@ base-chart、GitOps，是家倫、俊達、峻維他們做的，我多半只出�
 ---
 
 <!-- .slide: class="belief" data-background-color="#2a1a1a" -->
-<p class="tag">信念 三</p>
+<p class="tag">無常</p>
+
 ## 我可能錯了
 
 Note:
